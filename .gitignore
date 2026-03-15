@@ -12,4 +12,6 @@ vendor/
 sololocal.txt
 doc.md
 Gemfile.lock
-.sync.ffs_db.DS_Store
+.sync.ffs_db
+.DS_Store
+*.DS_Store
