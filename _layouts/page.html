@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="generator" content="Zoho Sites 1.0, http://zoho.com/sites" />
+    <title>{{ page.title }}</title>
+    <meta name="keywords" content="{{ page.keywords }}" />
+    <meta name="description" content="{{ page.description }}" />
+    <meta property="og:title" content="{{ page.title }}"/>
+    <meta property="og:url" content="http://manosalatierra.zohosites.com/{{ page.url | remove: '/' }}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    <link href="theme/content_style.css" rel="stylesheet" type="text/css" />
+    <link href="theme/style.css" rel="stylesheet" type="text/css" />
+    <link href="theme/contentreset_style.css" type="text/css" rel="stylesheet" />
+    <script>var ZS_ColumnFix=false;var responsiveTheme=false;var ZS_FormAppName="manos-a-la-tierra-660298368"</script>
+    <!--[if gt IE 8]><script>ZS_ColumnFix=true</script><script src="js/json2.js"></script><![endif]-->
+    <script src="js/commonUtils.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/navigation.js"></script>
+    <script>var ZS_adjustHeight=false;var ZS_PublishMode = true; var ZS_MobileVer = false;</script>
+</head>
+<body>
+<div class="patternBG">
+  <div class="page-width mainDiv">
+    <div class="bannerArea"> 
+      <div class="bannerImage">
+        <div style="position:relative;width:920px; background-color:; height:325px;overflow:hidden;z-index:0">
+          <img id="zpBannerBg" class="" style="position: absolute; top: -144px; left: 0px; width: 920px; height: auto; opacity: 1;" src="files/huerta2.jpg" width="920px" onload="fnSetBannerImg(this,0,0)" />
+        </div>
+      </div>
+    </div>
+    <div class="contentContainerInner">
+      <div class="leftArea floatLeft">
+        <div class="leftAreaInner">
+          <div class="topArea"> 
+            <div class="sitenameLogoContainer"> 
+              <div class="logoArea"><a href="/"><img id="zpLogo" src="files/logo-lw-scaled.png" width="100px" /></a></div>
+              <h1 id="zpSitename">Manos a la Tierra</h1>
+            </div>
+            <div class="menuArea">
+              {% include nav.html %}
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="rightArea floatLeft">
+        <div class="rightAreaInner" style="width:100%"> 
+          <div class="contentAreaSpace">
+            <div id="page-container" class="zpcontent-wrapper">
+              {{ content }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
