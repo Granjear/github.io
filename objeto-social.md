@@ -8,8 +8,9 @@ description: ""
 <div id="elm_C97u8S0OQwOPWqK6zOfvCdA" class="zpelement-wrapper zpTabs">
     <div class="zs-tabs">
     <ul>
-        <li id="pos_2lvWMHDnQ1GG4T4zOivCdA" class="zs-tabs-accordion-header selected" name="tab1" onclick="fnChangeTab(event)"> <div> Quienes Somos  </div> </li>
-        <li id="pos_fWAqfPSWRfO0ayN_Xkhxzw" class="zs-tabs-accordion-header" name="tab2" onclick="fnChangeTab(event)"> <div> El equipo </div> </li>
+        <li id="elm_2lvWMHDnQ1GG4T4zOivCdA" class="zs-tabs-accordion-header selected" name="tab1" onclick="fnChangeTab(event)"> <div> Quienes Somos  </div> </li>
+        <li id="elm_fWAqfPSWRfO0ayN_Xkhxzw" class="zs-tabs-accordion-header" name="tab2" onclick="fnChangeTab(event)"> <div> El equipo </div> </li>
+        <li id="elm_K2x41RI7QR2uaR_ZcO4c-Q" class="zs-tabs-accordion-header" name="tab3" onclick="fnChangeTab(event)"> <div> Objeto Social </div> </li>
     </ul>
     </div>
 <div class="zs-accordion  selected" name="tab1" onclick="fnChangeTab(event)">Quienes Somos<em></em></div>
@@ -33,9 +34,8 @@ Contamos con el apoyo de instituciones académicas y organismos de investigació
 *   **Gestión Administrativa:** [Nombre a definir]
 
 </div>
-</div>
-<div class="zs-accordion" name="tab2" onclick="fnChangeTab(event)">Objeto Social<em></em></div>
-<div class="zs-tabs-accordion-content" id="pos_K2x41RI7QR2uaR_ZcO4c-Q"  name="content2" style="display:none" markdown="1">
+<div class="zs-accordion" name="tab3" onclick="fnChangeTab(event)">Objeto Social<em></em></div>
+<div class="zs-tabs-accordion-content" id="pos_K2x41RI7QR2uaR_ZcO4c-Q"  name="content3" style="display:none" markdown="1">
 
 <div style="text-align: center; font-size: 1.2em; font-weight: bold;">Objeto del estatuto de la Asociación Civil Manos A la tierra.</div>
 
@@ -53,7 +53,7 @@ En la Ciudad de Martínez, Partido de San Isidro, a los 7 días del mes de Julio
 - Coordinar y especialmente desarrollar acciones de capacitación a fin de concretar la construcción de las viviendas e instalaciones de los granjeros en sus respectivas granjas, así como la infraestructura de las colonias.
 - Promover y apoyar el desarrollo de estas granjas en sectores rurales y así como de huertas en sectores urbanos como emprendimientos familiares o personales.
 - Coordinar la actividad productiva en beneficio de las personas y familias que forman las granjas de las colonias o bien de las huertas urbanas, facilitándoles apoyo necesario en la producción y comercialización, a cargo de profesionales y/o personal idóneo, y siempre sin fines de lucro.
-- Impulsar y desarrollar energías alternativas y/ ó tecnologías ecológicas, amigable con el medio ambiente y de reciclado, tanto para desarrollar las actividades productivas, agropecuarias, hortícolas, de las granjas, como para las viviendas y para la infraestructura de las colonias.
+- Impulsar y desarrollar energías alternativas y/ ó tecnologías ecológicas, amigable con el medio ambiente y de reciclado, tanto para desarrollar las actividades productivas, agropecuarias, hortícolas, de las granjas, como para las viviendas e para la infraestructura de las colonias.
 - Relacionarse con entidades de igual o similar características y organismos Municipales, Provinciales o Nacionales, Públicos o privados para el logro de sus finalidades.
 - Promover en la sociedad nuevos patrones de comportamiento y responsabilidades éticas hacia el ambiente y generar una mayor conciencia socio-ambiental que tienda hacia la sustentabilidad del entorno natural, en el marco de la justicia social.
 - Fomentar el cuidado del medio ambiente y la reducción del efecto invernadero a partir de buenas prácticas agropecuarias, generando un ahorro en el consumo de la energía en la vivienda social y fomentando la forestación en todas sus formas.
