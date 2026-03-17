@@ -10,7 +10,7 @@ description: ""
     <ul>
         <li id="elm_tab_estatuto" class="zs-tabs-accordion-header selected" name="tab1" onclick="fnChangeTab(event)"> <div> Estatuto </div> </li>
         <li id="elm_tab_convenio_asana" class="zs-tabs-accordion-header" name="tab2" onclick="fnChangeTab(event)"> <div> Convenio ASANA </div> </li>
-        <li id="elm_tab_documentacion_nic" class="zs-tabs-accordion-header" name="tab3" onclick="fnChangeTab(event)"> <div> Documentación NIC </div> </li>
+        <li id="elm_tab_documentacion_nic" class="zs-tabs-accordion-header" name="tab3" onclick="fnChangeTab(event)"> <div> Documentación</div> </li>
     </ul>
     </div>
 
@@ -28,7 +28,7 @@ description: ""
 
 </div>
 
-<div class="zs-accordion" name="tab3" onclick="fnChangeTab(event)">Documentación NIC<em></em></div>
+<div class="zs-accordion" name="tab3" onclick="fnChangeTab(event)">Documentación<em></em></div>
 <div class="zs-tabs-accordion-content" id="pos_tab_documentacion_nic" name="content3" style="display:none" markdown="1">
 
 <div style="margin-bottom: 2em;">
@@ -37,7 +37,7 @@ description: ""
 </div>
 
 <div style="margin-bottom: 2em;">
-    <h4>CUIT NIC</h4>
+    <h4>CUIT</h4>
     <embed src="files/convenios/CUIT NIC.pdf" type="application/pdf" width="100%" height="400px" />
 </div>
 
