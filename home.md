@@ -7,7 +7,11 @@ description: ""
 
 ### Bienvenidos a Manos a la Tierra
 
+<div style="font-size: 1.25em; margin-bottom: 2em;">
+
 Este proyecto consiste en generar pequeñas granjas unifamiliares nucleadas en una colonia, tiene como finalidad brindar a individuos que viven en condición de pobreza en Argentina y que estén dispuestos a trabajar, la posibilidad de salir de esa situación realizando un emprendimiento para sí mismo y su familia del cual será su titular y responsable.
+
+</div>
 
 <div id="elm_rUy50oXcR6-3INm2US6Dbg" class="zpelement-wrapper zpcol-layout">
 <div class="zpcolumns">
