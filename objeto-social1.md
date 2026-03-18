@@ -80,7 +80,7 @@ Se propondrá para toda la colonia una forma de producción agropecuaria sencill
 
 <div id="elm_9vk8TRSCQr2fzMXqInfHaQ" class="zpelement-wrapper image" name="image">
     <div class="zpAlignPos" style="max-width: 100%; float:left;text-align:center;;margin-bottom:2px;" >
-    <img class="zpImage" src="files/infografia 11-2-2026.jpeg" style="max-width: 100%; border:0px solid;border-color:initial;width: 542px;margin-right:10px;padding:0px;background:transparent; cursor:pointer;" onclick="lightBox(this)"/>
+    <img class="zpImage" src="files/infografia 11-2-2026.jpeg" style="max-width: 100%; border:0px solid;border-color:initial;width: 542px;margin-right:10px;padding:0px;background:transparent; cursor:pointer;" onclick="openLightbox(this.src)"/>
     <div class="zpImageCaption" style="text-align:center; width: 542px;margin:0px auto;"></div></div>
 </div>
 

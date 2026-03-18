@@ -19,9 +19,7 @@ Este proyecto consiste en generar pequeñas granjas unifamiliares nucleadas en u
         <div id="pos_MCHH-79LS12ttCu6L0fk-A" class="zpwrapper col-space"><div style="height:1px;">&nbsp;</div>
 <div id="elm_FHJvi2VgRH63qQq1JlOcsg" class="zpelement-wrapper image" name="image">
     <div class="zpAlignPos" style="max-width: 100%; float:left;text-align:center;;margin-bottom:2px;" >
-    <img class="zpImage"     src="files/kyle-ellefson-196125.jpg" style="max-width: 100%; border:0px solid;border-color:initial;width: 182px;margin-right:10px;padding:0px;background:transparent; 
-        cursor:pointer;" onclick = "lightBox(this)
-    "/>
+    <img class="zpImage"     src="files/kyle-ellefson-196125.jpg" style="max-width: 100%; border:0px solid;border-color:initial;width: 182px;margin-right:10px;padding:0px;background:transparent; cursor:pointer;" onclick="openLightbox(this.src)"/>
     <div class="zpImageCaption" style="text-align:center; width: 182px;margin:0px auto;"></div></div>
 </div>
         </div></div> 
@@ -29,9 +27,7 @@ Este proyecto consiste en generar pequeñas granjas unifamiliares nucleadas en u
         <div id="pos_6SpkjMnwTV-cD9o5IY0eXg" class="zpwrapper col-space"><div style="height:1px;">&nbsp;</div>
 <div id="elm_N-GhgfdjTLmaN7HZZaWmzw" class="zpelement-wrapper image" name="image">
     <div class="zpAlignPos" style="max-width: 100%; float:left;text-align:center;;margin-bottom:2px;" >
-    <img class="zpImage"     src="files/eddie-kopp-268600.jpg" style="max-width: 100%; border:0px solid;border-color:initial;width: 196px;margin-right:10px;padding:0px;background:transparent; 
-        cursor:pointer;" onclick = "lightBox(this)
-    "/>
+    <img class="zpImage"     src="files/eddie-kopp-268600.jpg" style="max-width: 100%; border:0px solid;border-color:initial;width: 196px;margin-right:10px;padding:0px;background:transparent; cursor:pointer;" onclick="openLightbox(this.src)"/>
     <div class="zpImageCaption" style="text-align:center; width: 196px;margin:0px auto;"></div></div>
 </div>
         </div></div> 
@@ -39,9 +35,7 @@ Este proyecto consiste en generar pequeñas granjas unifamiliares nucleadas en u
         <div id="pos_FsK6M52ARSGfMmLjsO8v9Q" class="zpwrapper col-space"><div style="height:1px;">&nbsp;</div>
 <div id="elm_vEteEjK9QYevAN36xCTatA" class="zpelement-wrapper image" name="image">
     <div class="zpAlignPos" style="max-width: 100%; float:left;text-align:center;;margin-bottom:2px;" >
-    <img class="zpImage"     src="files/lukas-langrock-390122.jpg" style="max-width: 100%; border:0px solid;border-color:initial;width: 182px;margin-right:10px;padding:0px;background:transparent; 
-        cursor:pointer;" onclick = "lightBox(this)
-    "/>
+    <img class="zpImage"     src="files/lukas-langrock-390122.jpg" style="max-width: 100%; border:0px solid;border-color:initial;width: 182px;margin-right:10px;padding:0px;background:transparent; cursor:pointer;" onclick="openLightbox(this.src)"/>
     <div class="zpImageCaption" style="text-align:center; width: 182px;margin:0px auto;"></div></div>
 </div>
         </div></div> 
