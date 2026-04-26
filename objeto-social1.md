@@ -8,12 +8,12 @@ description: ""
 <div id="elm_xXaLqPu8QvOFNA7HALkxBw" class="zpelement-wrapper zpTabs">
     <div class="zs-tabs">
     <ul>
-        <li id="elm_jPTI6rNnRlKw7fpnQdbQUw" class="zs-tabs-accordion-header selected" name="tab1" onclick="fnChangeTab(event)"> <div> Introducción </div> </li>
-        <li id="elm_WSN_RL2DS0OyaWK7khxzw" class="zs-tabs-accordion-header" name="tab2" onclick="fnChangeTab(event)"> <div> Infografia </div> </li>
+        <li id="elm_jPTI6rNnRlKw7fpnQdbQUw" class="zs-tabs-accordion-header selected" name="tab1" onclick="fnChangeTab(event)"> <div> Síntesis del proyecto de Colonias </div> </li>
         <li id="elm_new_planos_tab" class="zs-tabs-accordion-header" name="tab3" onclick="fnChangeTab(event)"> <div> Planos </div> </li>
+        <li id="elm_WSN_RL2DS0OyaWK7khxzw" class="zs-tabs-accordion-header" name="tab2" onclick="fnChangeTab(event)"> <div> Infografia </div> </li>
     </ul>
     </div>
-<div class="zs-accordion  selected" name="tab1" onclick="fnChangeTab(event)">Introducción<em></em></div>
+<div class="zs-accordion  selected" name="tab1" onclick="fnChangeTab(event)">Síntesis del proyecto de colonias<em></em></div>
 <div class="zs-tabs-accordion-content" id="pos_jPTI6rNnRlKw7fpnQdbQUw"  name="content1" style="display:block" markdown="1">
 
 <div style="text-align: center; font-size: 1.2em; font-weight: bold; margin-bottom: 1em;">Proyecto de colonias de granjas para familias jóvenes en condición de pobreza de Argentina</div>
@@ -90,14 +90,20 @@ Se propondrá para toda la colonia una forma de producción agropecuaria sencill
 <div class="zs-tabs-accordion-content" id="pos_new_planos_tab" name="content3" style="display:none" markdown="1">
 
 <div style="margin-bottom: 2em; text-align: center;">
+    <h4 style="color: #2e7d32;">Planta general de la colonia</h4>
+    <img src="{{ site.baseurl }}/files/Planta gral colonia 20 granjas  y 20 viviendas 1-4-2026.pdf"
+    alt="Area central de la colonia" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+</div>
+
+<div style="margin-bottom: 2em; text-align: center;">
     <h4 style="color: #2e7d32;">Área central de la colonia</h4>
-    <img src="{{ site.baseurl }}/files/Area central de la colonia.png"
+    <img src="{{ site.baseurl }}/files/Area central y  sector 20 viviendas de la colonia1-4-2026 (1).pdf"
     alt="Area central de la colonia" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;">
 </div>
 
 <div style="margin-bottom: 2em; text-align: center;">
     <h4 style="color: #2e7d32;">Plano de una granja familiar</h4>
-    <img src="{{ site.baseurl }}/files/Plano de una granja familiar.gif" alt="Plano de una granja familiar" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+    <img src="{{ site.baseurl }}/files/Planta de una granja familiar 1-4-2026.pdf" alt="Plano de una granja familiar" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;">
 </div>
 
 <div style="margin-bottom: 2em; text-align: center;">

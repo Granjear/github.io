@@ -16,22 +16,21 @@ description: ""
 <div class="zs-accordion  selected" name="tab1" onclick="fnChangeTab(event)">Quienes Somos<em></em></div>
 <div class="zs-tabs-accordion-content" id="pos_2lvWMHDnQ1GG4T4zOivCdA"  name="content1" style="display:block" markdown="1">
 
-Somos un grupo de Argentinos conscientes que la mejor forma de revertir la situación de pobreza estructural que afecta a una parte importante de la población de nuestro país, es a través del trabajo.
+Somos un grupo de argentinos, convencidos  que la mejor forma de revertir la situación de pobreza estructural que afecta a una parte importante de la población de nuestro país, es a través de un emprendimiento propio.
 
-Buscamos generar un impacto real y positivo en la vida de muchas familias, brindándoles no solo una oportunidad económica, sino también un sentido de pertenencia y dignidad a través del cultivo de la tierra.
+No solo por ser este la forma más rápida, también es la forma más potente de trasformación de la persona en situación de pobreza.
+
+Muchos de nosotros en algún momento percibimos la emoción fascinante de tener una empresa propia,  otros formaron parte de emprendimientos y profesiones diversas,  pero todo estamos convencidos de que la mentalidad emprendedora en todos los campos es lo que  genera desarrollo de una sociedad.
+
+Buscamos generar un impacto real y positivo en la vida de muchas familias, brindándoles no solo una oportunidad económica, sino también un sentido de pertenencia y dignidad a través del cultivo de la tierra. 
+
+Si bien los miembros de la ONG ponemos nuestro trabajo, ideas, conocimiento y experiencia  en el armado del proyecto de colonias y  trabajaremos luego  en la coordinación de las colonias que se formen.  No obstante la gigantesca  tarea, energía  y voluntad de salida de la pobreza y comienzo de una nueva vida, corresponde totalmente a los individuos que tome la decisión de tener una granja propia.   
 
 </div>
 <div class="zs-accordion" name="tab2" onclick="fnChangeTab(event)">El equipo<em></em></div>
 <div class="zs-tabs-accordion-content" id="pos_fWAqfPSWRfO0ayN_Xkhxzw"  name="content2" style="display:none" markdown="1">
 
-Nuestro equipo multidisciplinario está conformado por profesionales y voluntarios comprometidos con el desarrollo social y agrícola de Argentina.
-
-Contamos con el apoyo de instituciones académicas y organismos de investigación que nos brindan el soporte técnico necesario para garantizar el éxito de nuestras colonias.
-
-*   **Dirección General:** Lic. Pedro Galeazzi
-*   **Asesoría Técnica:** Investigadores del IIPAC (UNLP-CONICET)
-*   **Coordinación de Voluntariado:** [Nombre a definir]
-*   **Gestión Administrativa:** [Nombre a definir]
+*   **En Construcción**
 
 </div>
 <div class="zs-accordion" name="tab3" onclick="fnChangeTab(event)">Objeto Social<em></em></div>
