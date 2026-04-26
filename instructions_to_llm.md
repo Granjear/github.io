@@ -1,1 +1,3 @@
 In the menu item "Actividad Actual" after the content add a box with 2 TABS: "Fotos" and "Videos" the Fotos TAB should contain the caruosel "1558906524269", and the Videos TAB should contain a carousel of youtube videos listed in the file asana_videos.csv with 2 fields identifying each video: title, and youtube url.
+In the menu item "Nuestro Proyecto de Colonias de Granjas" under the TAB: "Planos" the pdf files are not showing in windows and Linux machines
+the image size for the PDFs are too small please meke them fill the container. 
