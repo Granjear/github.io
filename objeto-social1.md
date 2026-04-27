@@ -88,29 +88,7 @@ Se propondrá para toda la colonia una forma de producción agropecuaria sencill
 
 <div class="zs-accordion" name="tab3" onclick="fnChangeTab(event)">Planos<em></em></div>
 <div class="zs-tabs-accordion-content" id="pos_new_planos_tab" name="content3" style="display:none" markdown="1">
-<!--
 
-<div style="margin-bottom: 2em; text-align: center;">
-    <h4 style="color: #2e7d32;">Planta general de la colonia</h4>
-    <object data="{{ site.baseurl }}/files/Planta gral colonia 20 granjas  y 20 viviendas 1-4-2026.pdf#view=FitH" type="application/pdf" width="100%" style="aspect-ratio: 1.414 / 1; border: 1px solid #ddd; border-radius: 4px;">
-        <p>Tu navegador no soporta ver PDFs. Puedes <a href="{{ site.baseurl }}/files/Planta gral colonia 20 granjas  y 20 viviendas 1-4-2026.pdf">descargar el archivo aquí</a>.</p>
-    </object>
-</div>
-
-<div style="margin-bottom: 2em; text-align: center;">
-    <h4 style="color: #2e7d32;">Área central de la colonia</h4>
-    <object data="{{ site.baseurl }}/files/Area central y  sector 20 viviendas de la colonia1-4-2026 (1).pdf#view=FitH" type="application/pdf" width="100%" style="aspect-ratio: 1.414 / 1; border: 1px solid #ddd; border-radius: 4px;">
-        <p>Tu navegador no soporta ver PDFs. Puedes <a href="{{ site.baseurl }}/files/Area central y  sector 20 viviendas de la colonia1-4-2026 (1).pdf">descargar el archivo aquí</a>.</p>
-    </object>
-</div>
-
-<div style="margin-bottom: 2em; text-align: center;">
-    <h4 style="color: #2e7d32;">Plano de una granja familiar</h4>
-    <object data="{{ site.baseurl }}/files/Planta de una granja familiar 1-4-2026.pdf#view=FitH" type="application/pdf" width="100%" style="aspect-ratio: 1.414 / 1; border: 1px solid #ddd; border-radius: 4px;">
-        <p>Tu navegador no soporta ver PDFs. Puedes <a href="{{ site.baseurl }}/files/Planta de una granja familiar 1-4-2026.pdf">descargar el archivo aquí</a>.</p>
-    </object>
-</div>
--->
 <div style="margin-bottom: 2em; text-align: center;">
     <h4 style="color: #2e7d32;">Planta general de la colonia</h4>
     <img src="{{ site.baseurl }}/files/Planta gral colonia 20 granjas  y 20 viviendas 1-4-2026.png" alt="Vivienda Familiar" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;">

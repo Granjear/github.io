@@ -10,7 +10,7 @@ description: ""
 
 Actualmente la ONG esta abocada a buscar un predio en una zona rural para la realización de la primera colonia como primer objetivo, no obstante también realizamos tareas directamente relacionadas con el objeto social de nuestro estatuto.
 <br><br>
-A fines de 2024 la Asociación civil ASANA con sede en Escobar y dedicada a la discapacidad no pidió que les desarrolláramos en su predio una huerta y monte de frutales para abastecer de su comedor (de 140 cubiertos por servicio) con verdura y fruta agroecológica.
+A fines de 2024 la Asociación civil ASANA con sede en Escobar y dedicada a la discapacidad nos pidió que les desarrolláramos en su predio una huerta y monte de frutales para abastecer de su comedor (de 140 cubiertos por servicio) con verdura y fruta agroecológica.
 <br><br>
 Se comenzó un trabajo desde un campo raso y actualmente la huerta tiene 900 M2 para la parte verduras con 24 bancales y 300 m2 para rastreras, además hay 400 m2 para monte de frutales, y próximamente le agregaremos otros 400 m2 más con la incorporación de cítricos.
 <br><br>

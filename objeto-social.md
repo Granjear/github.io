@@ -36,7 +36,7 @@ Si bien los miembros de la ONG ponemos nuestro trabajo, ideas, conocimiento y ex
 <div class="zs-accordion" name="tab3" onclick="fnChangeTab(event)">Objeto Social<em></em></div>
 <div class="zs-tabs-accordion-content" id="pos_K2x41RI7QR2uaR_ZcO4c-Q"  name="content3" style="display:none" markdown="1">
 
-<div style="text-align: center; font-size: 1.2em; font-weight: bold;">Objeto del estatuto de la Asociación Civil Manos A la tierra.</div>
+<div style="text-align: center; font-size: 1.2em; font-weight: bold;">Objeto del estatuto de la Asociación Civil Manos a la tierra.</div>
 
 En la Ciudad de Martínez, Partido de San Isidro, a los 7 días del mes de Julio de 2017, los que suscriben, **Pedro Alberto Galeazzi** y **Pablo Matías Durán** en su nuestro carácter de: Presidente y Secretario respectivamente de la Asociación Civil sin fines de lucro denominada: **ASOCIACIÓN CIVIL Manos a la Tierra**, Legajo 1/232109, con domicilio social en la calle **Sáenz Valiente 52, Piso 3º “F”**, de la localidad de **Martínez**, Partido de **San Isidro**.
 
